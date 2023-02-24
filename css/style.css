@@ -124,6 +124,14 @@ ul li a{
   width: 100%;
 }
 
+.img-container-irina-blok{
+  background-image:url('/imagens/irina-blok.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 11rem;
+  width: 100vw;
+}
+
 .video-container{
   background-color: #2d5830;
   text-align: center;
@@ -209,9 +217,14 @@ footer p{
     font-size: 1rem;
   }
 
+  .history-title h1{
+    padding: .5rem;
+  }
+  
+
   section p{
     padding: .2rem;
-    font-size: .7rem;
+    font-size: .9rem;
   }
 
   .bugdroid-img{
@@ -263,7 +276,7 @@ footer p{
   }
 
   nav ul li{
-    font-size: .6rem;
+    font-size: .8rem;
   }
 
   .title-container h1{
@@ -284,9 +297,13 @@ footer p{
     font-size: .8rem;
   }
 
+  .history p{
+    font-size: .8rem;
+  }
+
   section p{
     padding: .3rem;
-    font-size: .6rem;
+    font-size: .8rem;
   }
 
   .dan-droids-img{
@@ -298,11 +315,11 @@ footer p{
   }
 
   .learn-more h3{
-    font-size: .6rem;
+    font-size: 1rem;
   }
 
   .learn-more p{
-    font-size: .5rem;
+    font-size: .9rem;
   }
 
   .lists{
@@ -310,7 +327,7 @@ footer p{
   }
 
   .list i, span{
-    font-size: .5rem;
+    font-size: .8rem;
   }
 
   .video-container{
